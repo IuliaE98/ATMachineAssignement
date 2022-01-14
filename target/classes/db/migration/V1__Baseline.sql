@@ -1,0 +1,1 @@
+create table account(account_number integer, pin integer, balance bigint, overdraft bigint)
