@@ -10,5 +10,8 @@
         <module name="AtmMachine" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="AtmMachine" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
